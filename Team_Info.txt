@@ -1,0 +1,38 @@
+CAPSTONE PROJECT REPORT AND ANALYSIS.
+
+Team Name: Code9
+ 
+Team Members
+1). James Ayomide  	SH-IT-0064749 	Team Leader
+2). Nebil Abdulfetah 	SH-IT-0087726 	Asst Team Leader
+3). Udeme Akpanuwa	SH-IT-0098112
+4). John Ossai		SH-IT-0135513
+5). Ayobami Oparemi	SH-IT-0105990
+6). Adeniji Adebola	SH-IT-0018928
+N.B: The aforementioned  are the active and available Team members; Contacting other team members was seen fugitive.
+PROJECT PROCESS AND RESPONSIBILITIES
+
+Process
+Every team member was ask to take part at the project with all form of consistency, during the process, some members encountered some difficulties and challenges; In view of this, those who were more skillful provided a more benefiting solution that could be help to those members.
+At the cause of carrying out the project, basically every team member learned something new, in terms of how to appropriately query google to get the right information.
+A poll was carried out at the end of the project, in order to facilitate voting for the best project submission.
+The group members were strictly advice that voting should be based on the assessment of what particular project actually met the criteria set by side-hustle.
+The poll results were analyzed by the team leader and the assistant team leader in order to choose the best project that will serve as a representative for the group. The selected project was therefore hosted at Vercel.
+Finally, the submission of the project was done by the Team leader.
+
+Responsibilities
+The project was built with an espirit de corp, every member had its own assigned role to play as a contribution to the success of the project.
+There where actually some things that had to be altered on the selected choice to give it the best performance, that's where the role of members comes in.
+
+Udeme Akpanuwa & John Ossai: Focused on structuring the HTML and CSS styling, at the end both came up with entirely different website.
+Ayobami Oparemi & Adeniji Adebola: Ease the workflow of Udeme and John, in the conversion of SVG images to SVG codes, which was utilize by Udeme and John in building their codes. Undoubtedly, this method helps the page loads better and faster as it has no files to download.They ensure all images and symbols were displayed properly and also created the footer section of the page
+James Ayomide & Nebil Abdulfetah: Did the organizing and creation of repository for the project for easy collaboration and as well did the checking of the site responsiveness to ensure it fit into the requirements stated, and thereafter hosted the site on vercel for submission.
+
+Advantage
+1. No doubt, the project was an helpful one to group members, at the end of the project, members were open to varied methods that are been used in the front end world. Members became acquianted with various implementation of HTML tags and CSS declaration.
+2. Members were also acquainted on how to effectively  work as a team, and how members can work in togetherness to achieved a shared goal.
+
+Conclusion
+Partaking in the capsone Projects was really, a time to show what we can do as a team, however, we successfully created our own assigned project, we will be happy to work on more futuristic complex project as requirement to this intern.
+
+
